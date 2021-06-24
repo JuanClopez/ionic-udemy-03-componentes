@@ -18,6 +18,11 @@ export class InicioPage implements OnInit {
       icon: 'american-football',
       name: 'Action Sheet',
       redirectTo: '/action-sheet'
+    },
+    {
+      icon: 'logo-apple-appstore',
+      name: 'Alert',
+      redirectTo: '/alert'
     }
 
   ];
